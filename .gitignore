@@ -1,0 +1,12 @@
+a.out
+main
+*.s
+*.o
+*.ll
+*.bc
+*.gcda
+*.gcno
+*.gcov
+*.profraw
+*.profdata
+garbage
